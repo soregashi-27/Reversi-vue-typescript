@@ -1,4 +1,7 @@
 # reversi-vue-typescript
+目的：VueとTypeScriptの開発に慣れる
+
+## 
 
 ## Project setup
 ```
