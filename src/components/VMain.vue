@@ -8,7 +8,7 @@
     <v-btn
       color="primary"
       outlined
-      @click="$router.push('/game')
+      @click="$router.push('/game')"
     >ゲームスタート!</v-btn>
   </v-layout>
   </v-container>
